@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Oxunjon 👋
 
-<!--
-**OxunjonJabborov/OxunjonJabborov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I am a backend developer focused on building web applications and REST APIs using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving real-world problems, designing backend systems, and continuously improving my software development skills.
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+
+**Backend**
+- Django
+- Django REST Framework
+- FastAPI
+
+**Databases**
+- PostgreSQL
+- MySQL
+
+### 🚀 Featured Projects
+
+- [AI Checker](https://github.com/OxunjonJabborov/ai_checker) — AI-powered platform for checking exams and homework.
+- [Movie Ticket](https://github.com/OxunjonJabborov/movie_ticket) — Movie ticket booking web application built with FastAPI.
+- [Todo FastAPI](https://github.com/OxunjonJabborov/todo_fastapi) — Task management application built with FastAPI.
+
+### 📫 Connect with Me
+
+- GitHub: [OxunjonJabborov](https://github.com/OxunjonJabborov)
+- LinkedIn: Add your LinkedIn profile link here.
+
+---
+*Always learning. Always building.*
