@@ -30,7 +30,7 @@ I enjoy solving real-world problems, designing backend systems, and continuously
 ### 📫 Connect with Me
 
 - GitHub: [OxunjonJabborov](https://github.com/OxunjonJabborov)
-- LinkedIn: [Add your LinkedIn profile link here.](https://www.linkedin.com/in/oxunjon-jabborov-1a1b012a3/)
+- LinkedIn: [Jabborov Oxunjon](https://www.linkedin.com/in/oxunjon-jabborov-1a1b012a3/)
 
 ---
 *Always learning. Always building.*
